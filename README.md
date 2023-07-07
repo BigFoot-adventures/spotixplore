@@ -1,7 +1,7 @@
 # spotixplore
 
 ## Description
-spoticxplore is a web page that calls the spotify web api and create as many quicklinks possible in a simply organized manner with the information from the API response.
+spotixplore is a web page that calls the spotify web api and create as many quicklinks possible in a simply organized manner with the information from the API response.
 
 ## Goals
 The goal of this project is to practice skills in preparation of a senior project for graduation as individual programmers and as a team. This web application is going to use Angular.
